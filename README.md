@@ -11,11 +11,8 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mohamed-badawy1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="45" alt="linkedin logo"  />
-  </a>
-  <a href="mohamedahmedf50@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="45" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/mohamed-badawy1/"><img width="55" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/><a/>
+  <a href="mailto:mohamedahmedf50@gmail.com"><img width="55" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/><a/>
   </a>
 </div>
 
