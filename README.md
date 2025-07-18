@@ -50,13 +50,6 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Badawy1&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150"/> &nbsp;
-</div>
 
 ###
 <p align="left">
